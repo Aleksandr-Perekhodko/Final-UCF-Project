@@ -1,3 +1,8 @@
+#secure files and filler
+config.py
+.ipynb_checkpoints\
+__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
