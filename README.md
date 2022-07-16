@@ -10,7 +10,7 @@ Additionally, we’ll be asking the following questions of our data:
 - Is it possible to accurately predict housing prices based on the given data alone?
 - If housing prices are expected to rise, how much would the average price increase be? 
 - Are there any outliers in our data? And if so, how should we treat them?
-- Are the any other factors that haven't been considered in our analysis?
+- Are there any other factors that haven't been considered in our analysis?
 
 # Methodology
 
@@ -20,7 +20,16 @@ Following the roadmap we'll assign tasks accordingly.
 
 ## Database
 
-For this analysis, we'll use a NoSQL database to hold our raw data. We'll then use data cleaning techniques to prepare the data to be inserted into a machine learning model. Finally, we'll store the cleaned data in a SQL database to be easily accessible. 
+For this analysis, we used a PostGresSQL database to hold our raw data. We then used data cleaning techniques to prepare the data to be inserted into a machine learning model. We did so by connecting Pandas and SQL with the sqlalchemy module, and storing the data on a local server. 
+
+The images below show the final database on the local server, and the data we'll use for our machine learning models.
+
+![image](https://user-images.githubusercontent.com/99847786/179373423-2667bb74-e87e-4872-891d-d4b3540e0889.png)
+
+![image](https://user-images.githubusercontent.com/99847786/179373427-31d24ab8-ea0b-4314-8738-2259d8f79ba3.png)
+
+![image](https://user-images.githubusercontent.com/99847786/179373431-d4864b5d-9182-40b6-840c-597eac20dc02.png)
+
 
 ## Machine Learning Model
 
