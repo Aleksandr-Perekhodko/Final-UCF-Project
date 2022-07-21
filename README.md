@@ -42,3 +42,9 @@ We'll use Tableau to create several visualizations to support our analysis for t
 # Summary of Results
 
 (To be completed once the analysis has been performed)
+
+## List of Technologies Used
+
+- Scikit-learn 
+
+(additional modules will be added later)
