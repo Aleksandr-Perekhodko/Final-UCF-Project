@@ -46,5 +46,8 @@ We'll use Tableau to create several visualizations to support our analysis for t
 ## List of Technologies Used
 
 - Scikit-learn 
+- TensorFlow
+- Tableau
+- SQL
 
 (additional modules will be added later)
