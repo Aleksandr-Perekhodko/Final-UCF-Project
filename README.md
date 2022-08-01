@@ -39,10 +39,10 @@ Once the data has been cleaned, we'll standardize it and use it as a base for ou
 
 We'll use Tableau to create several visualizations to support our analysis for the time being, but this could change as the project progresses.
 
-> - **Visual One:** Price by Overall Quality with Count
+### **Visual One:** Price by Overall Quality with Count
 
 
- The first visual shows the *Sale Price* of each home sorted by median price, and each house's *Overall Quality*. The color of each shape is determined by the *Sale Price* from red meaning the lowest sale price to green meaning the highest. The size of each shape in the scatter plot is determined by the count of the *Sale Price*, which means the smaller the size of the shape, the smaller the count of *Sale Price* data sets that are in the *Overall Quality* data sets; for example, the first point only has a count of 2 at the data point *Sale Price* 50k and *Overall Quality* 1.0. The numbers underneath the shapes in the plot show the median *Sale Price*, the median *Overall Quality*, and count of the *Sale Price*.
+> - The first visual shows the *Sale Price* of each home sorted by median price, and each house's *Overall Quality*. The color of each shape is determined by the *Sale Price* from red meaning the lowest sale price to green meaning the highest. The size of each shape in the scatter plot is determined by the count of the *Sale Price*, which means the smaller the size of the shape, the smaller the count of *Sale Price* data sets that are in the *Overall Quality* data sets; for example, the first point only has a count of 2 at the data point *Sale Price* 50k and *Overall Quality* 1.0. The numbers underneath the shapes in the plot show the median *Sale Price*, the median *Overall Quality*, and count of the *Sale Price*.
 
 
 ![Real Estate Correlations 1](https://user-images.githubusercontent.com/97326526/182004056-29026907-b373-4ee2-b799-3dc370156193.jpeg)
