@@ -56,7 +56,8 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 
 
-![Real Estate Correlations 2](https://user-images.githubusercontent.com/97326526/182266912-8337fc07-8840-40ce-b0c0-1c5ef9c40a61.jpeg)
+![Real Estate Correlations 2](https://user-images.githubusercontent.com/97326526/182267177-ff8edfda-2185-43f1-893f-804be72e4d93.png)
+
 
 
 >- **Visual Three:** Average Price of Home with Full Bathroom
