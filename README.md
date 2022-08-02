@@ -55,7 +55,8 @@ We'll use Tableau to create several visualizations to support our analysis for t
  This visual contains a line graph that shows the *Gr Liv Area* which is the ground square footage of the home compared to the average *Sale Price* for the homes in our dataset. As seen on the graph, as the square footage increases the home price also tends to increase, and we can also see that in this graph there does seem to be an outlier somewhere in the range of 4800 to 5600 as the price has decreased a significant amount. This outlier may be due to quality of the home, the way the home was sold (ex. the price might have changed due to a foreclosure, damage, etc.), or some other factor. 
 
 
-![Real Estate Correlations 2](https://user-images.githubusercontent.com/97326526/182004058-b9a8c63c-bb1b-4dc7-9446-8fe5c5c5f295.jpeg)
+
+![Real Estate Correlations 2](https://user-images.githubusercontent.com/97326526/182266912-8337fc07-8840-40ce-b0c0-1c5ef9c40a61.jpeg)
 
 
 >- **Visual Three:** Average Price of Home with Full Bathroom
