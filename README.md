@@ -1,6 +1,6 @@
 # Final-UCF-Project
 
-The purpose of our analysis is to examine real estate trends and data in Ames, Iowa to determine if we can accurately predict the final price for each home in our data set. In order to do so, we'll employ a variety of techniques, including data extraction and cleaning, using a NoSQL Database to store our data, and performing Primary Component Analysis(PCA) to ready the data for a machine learning model before finally presenting our findings in Tableau (or other visualization applications).
+The purpose of our analysis is to examine real estate trends and data in Ames, Iowa to determine if we can accurately predict the final price for each home in our data set. In order to do so, we'll employ a variety of techniques, including data extraction and cleaning, using a SQL Database to store our data, and taking steps to standardize the data for a machine learning model before finally presenting our findings in Tableau.
 
 [(Link to dashboard)](https://public.tableau.com/app/profile/aleksandr.perekhodko/viz/RealEstateCorrelations/RealEstateCorrelations) (These can be moved at any time)
 (Link to Google Slides Presentation)
