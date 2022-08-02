@@ -52,7 +52,10 @@ We'll use Tableau to create several visualizations to support our analysis for t
 > - **Visual Two:** Price to Square Foot
 
 
- This visual contains a line graph that shows the *Gr Liv Area* which is the ground square footage of the home compared to the average *Sale Price* for the homes in our dataset. As seen on the graph, as the square footage increases the home price also tends to increase, and we can also see that in this graph there does seem to be an outlier somewhere in the range of 4800 to 5600 as the price has decreased a significant amount. This outlier may be due to quality of the home, the way the home was sold (ex. the price might have changed due to a foreclosure, damage, etc.), or some other factor. 
+ This dashboard contains 2 visuals the first being a line graph that shows the *Gr Liv Area* which is the ground square footage of the home compared to the average *Sale Price* for the homes in our dataset. As seen on the graph, as the square footage increases the home price also tends to increase, and we can also see that in this graph there does seem to be an outlier somewhere in the range of 4800 to 5600 as the price has decreased a significant amount. This outlier may be due to quality of the home, the way the home was sold (ex. the price might have changed due to a foreclosure, damage, etc.), or some other factor.
+ 
+ 
+ The second visual contains a scatter plot that contains *Overall Qual* which is overall quality of the home and the rows is comprised of average *Price Per Sq Ft* which is a calculated field that used *[Sale Price] / [Overall Qual]*. The color of each of the is based on the quality of the home it starts from red which is at 1 and 10 being a dark green color. This visual shows that the average price per square footage does go up as quality of the homes go up with the exception of overall quality which is 3, it has a lower average price per sqaure footage maybe due to not as much data from homes ranked in overall quality of 3. Or maybe there could of been a sale condition that caused the homes that are ranked in quality of 3 to be lower price per square foot. The same goes for the homes ranked in quality 10, there could be not enough data or different sale conditions that caused the ranked 10 homes to be lower than 9.
 
 
 
