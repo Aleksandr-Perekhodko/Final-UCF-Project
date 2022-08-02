@@ -18,6 +18,10 @@ Following the roadmap we'll assign tasks accordingly.
 
 <img width="1154" alt="Screen Shot 2022-07-13 at 5 02 06 PM" src="https://user-images.githubusercontent.com/99847786/178833680-ab922408-af08-4250-a1a4-6340a1039513.png">
 
+## Data Cleaning
+
+
+
 ## Database
 
 For this analysis, we used a PostGresSQL database to hold our raw data. We then used data cleaning techniques to prepare the data to be inserted into a machine learning model. We did so by connecting Pandas and SQL with the sqlalchemy module, and storing the data on a local server. 
@@ -33,7 +37,7 @@ The images below show the final database on the local server, and the data we'll
 
 ## Machine Learning Model
 
-Once the data has been cleaned, we'll standardize it and use it as a base for our machine learning model. We'll then separate the data into training and testing sets before finally applying a Machine Learning Model (Which will be used?)
+
 
 ## Dashboard
 
