@@ -98,7 +98,7 @@ We'll use Tableau to create several visualizations to support our analysis for t
 > - This dashboard contains 2 visuals the first being a line graph that shows the *Gr Liv Area* which is the ground square footage of the home compared to the average *Sale Price* for the homes in our dataset. As seen on the graph, as the square footage increases the home price also tends to increase, and we can also see that in this graph there does seem to be an outlier somewhere in the range of 4800 to 5600 as the price has decreased a significant amount. This outlier may be due to quality of the home, the way the home was sold (ex. the price might have changed due to a foreclosure, damage, etc.), or some other factor.
  
  
- The second visual contains a scatter plot that contains *Overall Qual* which is overall quality of the home and the rows is comprised of average *Price Per Sq Ft* which is a calculated field that used *[Sale Price] / [Overall Qual]*. The color of each of the is based on the quality of the home it starts from red which is at 1 and 10 being a dark green color. This visual shows that the average price per square footage does go up as quality of the homes go up with the exception of overall quality which is 3, it has a lower average price per sqaure footage maybe due to not as much data from homes ranked in overall quality of 3. Or maybe there could of been a sale condition that caused the homes that are ranked in quality of 3 to be lower price per square foot. The same goes for the homes ranked in quality 10, there could be not enough data or different sale conditions that caused the ranked 10 homes to be lower than 9.
+> - The second visual contains a scatter plot that contains *Overall Qual* which is overall quality of the home and the rows is comprised of average *Price Per Sq Ft* which is a calculated field that used *[Sale Price] / [Overall Qual]*. The color of each of the is based on the quality of the home it starts from red which is at 1 and 10 being a dark green color. This visual shows that the average price per square footage does go up as quality of the homes go up with the exception of overall quality which is 3, it has a lower average price per sqaure footage maybe due to not as much data from homes ranked in overall quality of 3. Or maybe there could of been a sale condition that caused the homes that are ranked in quality of 3 to be lower price per square foot. The same goes for the homes ranked in quality 10, there could be not enough data or different sale conditions that caused the ranked 10 homes to be lower than 9.
 
 
 
@@ -133,7 +133,7 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 ![Real Estate Correlations 5](https://user-images.githubusercontent.com/97326526/182004098-e03f31cd-8517-43c8-ab79-1683658443a2.jpeg)
 
-### Visual Six:** Price by Year Built
+### Visual Six: Price by Year Built
 
 
 > - The following visual shows a packed bubble chart, based on the *Year Remod Add* data set which contains information about the year when the home was remodeled - but if the house was never remodeled it will show the year when the home was first built. The bubble chart is labeled by the *Year Remod Add*, and *Sale Price*. The color of the bubbles is based on the *Sale Price* data set with a scale that starts with red (meaning the lowest price) to green (meaning the highest price). The bubbles are also porpotional to the *Sale Price*, - in other words, the greater the size of the bubble the greater the price of the property.
@@ -141,7 +141,7 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 ![Real Estate Correlations 6](https://user-images.githubusercontent.com/97326526/182004116-ebde2305-bf8e-4435-bd18-6013c7535d1d.jpeg)
 
-### Visual Seven:** Neighborhood Quality and Average Sale Price of Homes with Sale Conditon
+### Visual Seven: Neighborhood Quality and Average Sale Price of Homes with Sale Conditon
 
 
 > - The below dashboard contains our final visual -  on the left is a square chart that has our *Neighborhood* data points.  The colors of each square in the  chart represent the price by average *Overall Qual*, where dark red represents the lowest price and dark green the highest price. The square chart is labeled by the average *Overall Qual*, where 8.2 is the highest and 4.4 represents the lowest quality houses. In the chart it seems that the  neighborhoods with the highest quality houses seem to be NridgHt, which is Northridge Heights, and StoneBr, which is Stone Brook. The neighborhoods with the lowest quality houses are MeadowV, which is Meadow Village with an average of 4.4, and IDOTRR, which is the area around the Iowa DOT and Rail Road,  with a quality rating of 4.7.
