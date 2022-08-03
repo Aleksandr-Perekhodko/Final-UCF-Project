@@ -2,9 +2,10 @@
 
 The purpose of our analysis is to examine real estate trends and data in Ames, Iowa to determine if we can accurately predict the final price for each home in our data set. In order to do so, we'll employ a variety of techniques, including data extraction and cleaning, using a SQL Database to store our data, and taking steps to standardize the data for a machine learning model before finally presenting our findings in Tableau.
 
-[(Link to dashboard)](https://public.tableau.com/app/profile/aleksandr.perekhodko/viz/RealEstateCorrelations/RealEstateCorrelations) (These can be moved at any time)
+[(Link to dashboard)](https://public.tableau.com/app/profile/aleksandr.perekhodko/viz/RealEstateCorrelations/RealEstateCorrelations) 
 
 Google Slides: https://docs.google.com/presentation/d/1VwEZyC6pBC5Pwj5bFC3liypyu1cbTUzve8bMaWpbejA/edit#slide=id.g14043d97bd8_0_0
+
 Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 Additionally, we’ll be asking the following questions of our data:
@@ -117,17 +118,16 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 
 # Summary of Results
 
-(To be completed once the analysis has been performed)
+
 
 ## List of Technologies Used
 
 - Pandas
+- Matplotlib 
 - Scikit-learn 
-- - Preprocessing
+- - sklearn.model_selection
+- - sklearn.preprocessing
 - TensorFlow
 - Tableau
 - SQL
 - QuickDBD (for our database's ERD) URL: https://app.quickdatabasediagrams.com/#/
-- 
-
-(additional modules will be added later)
