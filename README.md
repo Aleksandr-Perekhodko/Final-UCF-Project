@@ -200,3 +200,4 @@ We'll use Tableau to create several visualizations to support our analysis for t
 - Tableau
 - SQL
 - QuickDBD (for our database's ERD) URL: https://app.quickdatabasediagrams.com/#/
+- Website: Quizlet for flashcard [(Link to Quizlet Visuals Flashcards)](https://quizlet.com/713954970/ucf_presentation-flash-cards/)
