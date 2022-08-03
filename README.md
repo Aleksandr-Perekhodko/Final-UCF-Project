@@ -130,10 +130,30 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 
 ![R2 RandomForest](https://user-images.githubusercontent.com/99847786/182581147-a500ad3b-230b-45b6-b200-1e36e965cc28.png)
 
+<img width="642" alt="Screen Shot 2022-08-03 at 6 06 49 AM" src="https://user-images.githubusercontent.com/99847786/182582936-9cc9bf66-dd42-45ef-b04c-fe87d22766d8.png">
+
+<img width="464" alt="Screen Shot 2022-08-03 at 6 07 00 AM" src="https://user-images.githubusercontent.com/99847786/182583144-010891e0-5e5c-4137-83d0-ecd066f696e4.png">
+
+<img width="464" alt="Screen Shot 2022-08-03 at 6 08 14 AM" src="https://user-images.githubusercontent.com/99847786/182583161-9a652711-7835-4593-8ee7-9d80a07b531e.png">
+
+<img width="464" alt="Screen Shot 2022-08-03 at 6 08 21 AM" src="https://user-images.githubusercontent.com/99847786/182583172-972d1969-43ce-46d0-bf38-82d42296913b.png">
+
+<img width="464" alt="Screen Shot 2022-08-03 at 6 08 30 AM" src="https://user-images.githubusercontent.com/99847786/182583202-11d93b63-8dff-4733-b491-143a9434cb5c.png">
+
 
 ### Deep Neural Network
 
 ![R2 DNN](https://user-images.githubusercontent.com/99847786/182581165-95fcb6af-911a-44fb-97d9-0efbee1d7cff.png)
+
+<img width="655" alt="Screen Shot 2022-08-03 at 6 05 45 AM" src="https://user-images.githubusercontent.com/99847786/182582805-242f964a-4aa4-4948-8e33-1c6248ad89fb.png">
+
+<img width="448" alt="Screen Shot 2022-08-03 at 6 06 00 AM" src="https://user-images.githubusercontent.com/99847786/182582822-336fec02-7ce8-49c9-b387-a229c82f82e2.png">
+
+<img width="461" alt="Screen Shot 2022-08-03 at 6 06 14 AM" src="https://user-images.githubusercontent.com/99847786/182582861-a29772b8-73d0-4685-b1f0-448da9cf97f5.png">
+
+### Feature Importance
+
+![image](https://user-images.githubusercontent.com/99847786/182583112-31a1e25a-72e8-4ce3-95ac-ecd2edaa4ab8.png)
 
 ## List of Technologies Used
 
