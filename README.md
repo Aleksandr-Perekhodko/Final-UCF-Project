@@ -123,10 +123,16 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 ## List of Technologies Used
 
 - Pandas
+- NumPy
+- SciPy
 - Matplotlib 
 - Scikit-learn 
 - - sklearn.model_selection
 - - sklearn.preprocessing
+- - sklearn.ensemble
+- - sklearn.metrics
+- Category Encoders
+- Seaborn 
 - TensorFlow
 - Tableau
 - SQL
