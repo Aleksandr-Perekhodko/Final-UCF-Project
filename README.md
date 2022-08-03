@@ -121,9 +121,13 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 
 ## List of Technologies Used
 
+- Pandas
 - Scikit-learn 
+- - Preprocessing
 - TensorFlow
 - Tableau
 - SQL
+- QuickDBD (for our database's ERD) URL: https://app.quickdatabasediagrams.com/#/
+- 
 
 (additional modules will be added later)
