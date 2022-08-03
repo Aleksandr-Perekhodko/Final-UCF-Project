@@ -40,6 +40,14 @@ The images below show the final database on the local server, and the data we'll
 
 ## Machine Learning Model
 
+### Data Preparation
+
+### Deep Neural Network
+
+<img width="638" alt="Screen Shot 2022-08-03 at 5 22 37 AM" src="https://user-images.githubusercontent.com/99847786/182573734-5563a0de-f97b-43d9-8ecd-3ebdf7fa9919.png">
+
+
+### RandomForest Regressor
 
 
 ## Dashboard
@@ -118,7 +126,14 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 
 # Summary of Results
 
+### Random Forest Regressor
 
+![R2 RandomForest](https://user-images.githubusercontent.com/99847786/182581147-a500ad3b-230b-45b6-b200-1e36e965cc28.png)
+
+
+### Deep Neural Network
+
+![R2 DNN](https://user-images.githubusercontent.com/99847786/182581165-95fcb6af-911a-44fb-97d9-0efbee1d7cff.png)
 
 ## List of Technologies Used
 
