@@ -58,5 +58,20 @@ The model then produced the output in the visualization below.
 
 # Summary of Results
 
+In our analysis, we'll use the R2 score to evaluate the accuracy of our models. R2 is also known as the coefficient of determination, and serves as a better measure of accuracy for regression models than the mean squared error; the disadvantage of using the mean squared error is that it can be negativley impacted if the dependent variable in a model is scaled.  
+
+## Deep Neural Network
+
+<img width="532" alt="Screen Shot 2022-08-03 at 5 56 34 PM" src="https://user-images.githubusercontent.com/99847786/182721431-843e7093-5d31-44c9-ba26-d1927181125d.png">
+
+
+R2 score of approximately  0.632 - in other words, the model is approximately 63.2% accurate.
+
+## Random Forest Regressor
+
+<img width="612" alt="Screen Shot 2022-08-03 at 5 56 25 PM" src="https://user-images.githubusercontent.com/99847786/182721425-74582e53-7fe6-42be-99ee-cc075e7af8fa.png">
+
+
+R2 score of approximately 0.943 - in other words, the model is approximately 94.3% accurate.
 
 
