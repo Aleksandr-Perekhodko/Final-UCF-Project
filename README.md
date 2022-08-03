@@ -23,6 +23,21 @@ Following the roadmap we'll assign tasks accordingly.
 
 ## Data Cleaning
 
+To prepare our data for the Database and Machine Learning Model, we need to first clean our data. We separated our data cleaning process into several steps. 
+
+First, we found the count of NAs in each **column**, as per the screenshot below. 
+
+<img width="411" alt="Screen Shot 2022-08-03 at 6 16 10 AM" src="https://user-images.githubusercontent.com/99847786/182584585-f033a3bf-f885-494d-9756-48c0f46128d7.png">
+
+We then filtered our data frame to drop any columns where the percentage of NAs was greater than 10%. 
+
+<img width="1116" alt="Screen Shot 2022-08-03 at 6 17 14 AM" src="https://user-images.githubusercontent.com/99847786/182584913-eaaa3514-6d99-4e11-b404-4a400f8dffa6.png">
+
+This process was repeated to drop any **rows** where the percentage of NAs was greater than 10%. 
+
+<img width="1110" alt="Screen Shot 2022-08-03 at 6 19 00 AM" src="https://user-images.githubusercontent.com/99847786/182585155-c0bc91d6-ad3e-4bbf-8a95-d5f63aecd40c.png">
+
+The cleaned data was then inserted into our project's database in SQL.
 
 
 ## Database
