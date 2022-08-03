@@ -133,4 +133,4 @@ The  visual on the right side also contains a square chart which shows *Sale Con
 - Tableau
 - SQL
 - QuickDBD 
-
+- [Quizelt Website for flash card for project](https://quizlet.com/713954970/ucf_presentation-flash-cards/)
