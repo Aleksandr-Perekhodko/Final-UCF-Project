@@ -1,6 +1,8 @@
 The purpose of our analysis is to examine real estate trends and data in Ames, Iowa to determine if we can accurately predict the final price for each home in our data set. In order to do so, we'll employ a variety of techniques, including data extraction and cleaning, using a NoSQL Database to store our data, and performing Primary Component Analysis(PCA) to ready the data for a machine learning model before finally presenting our findings in Tableau (or other visualization applications).
 
-[(Link to dashboard)](https://public.tableau.com/app/profile/aleksandr.perekhodko/viz/RealEstateCorrelations/RealEstateCorrelations) (These can be moved at any time)
+[(Link to dashboard)](https://public.tableau.com/app/profile/aleksandr.perekhodko/viz/RealEstateCorrelations/RealEstateCorrelations)
+
+
 [(Link to Google Slides Presentation)](https://docs.google.com/presentation/d/1VwEZyC6pBC5Pwj5bFC3liypyu1cbTUzve8bMaWpbejA/edit#slide=id.p)
 
 Additionally, we’ll be asking the following questions of our data:
