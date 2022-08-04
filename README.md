@@ -94,6 +94,38 @@ The model then produced the output in the visualization below.
 
 <img width="668" alt="image" src="https://user-images.githubusercontent.com/99847786/182716850-450175d2-7f75-4a8a-b85e-66e886af7e46.png">
 
+
+## Deep Neural Network
+
+<img width="532" alt="Screen Shot 2022-08-03 at 5 56 34 PM" src="https://user-images.githubusercontent.com/99847786/182721431-843e7093-5d31-44c9-ba26-d1927181125d.png">
+
+R2 score of approximately  0.632 - in other words, the model is approximately 63.2% accurate.
+
+The below visual shows the the predicted home price vs the actual: 
+
+<img width="622" alt="Screen Shot 2022-08-03 at 6 18 35 PM" src="https://user-images.githubusercontent.com/99847786/182722191-3a248585-250b-4bf0-9ae3-3123f0f3d33c.png">
+
+Finally, the below visual shows the error percentage in the price prediction model in a box and whisker plot. 
+
+<img width="623" alt="Screen Shot 2022-08-03 at 6 22 22 PM" src="https://user-images.githubusercontent.com/99847786/182722707-f2bfa02c-235f-41fe-87f0-368a0e966826.png">
+
+## Random Forest Regressor
+
+
+<img width="622" alt="Screen Shot 2022-08-03 at 6 14 46 PM" src="https://user-images.githubusercontent.com/99847786/182721746-cec9fe8e-02c7-4728-a5f4-e74eba178396.png">
+
+
+R2 score of approximately 0.754 - in other words, the model is approximately 75.4% accurate, which is a substantial increase over the DNN. 
+
+The below visual shows the the predicted home price vs the actual: 
+
+
+<img width="622" alt="Screen Shot 2022-08-03 at 6 19 04 PM" src="https://user-images.githubusercontent.com/99847786/182722266-f52f57f9-8e24-4d6f-8f67-9266b2863e36.png">
+
+Finally, the below visual shows the error percentage in the price prediction model in a box and whisker plot. 
+
+<img width="623" alt="Screen Shot 2022-08-03 at 6 22 10 PM" src="https://user-images.githubusercontent.com/99847786/182722742-389f4a5f-e681-4819-9386-81d7f9784586.png">
+
 ## Dashboard
 
 We'll use Tableau to create several visualizations to support our analysis for the time being, but this could change as the project progresses.
