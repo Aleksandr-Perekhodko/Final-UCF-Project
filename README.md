@@ -93,7 +93,7 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 ![Real Estate Correlations 5](https://user-images.githubusercontent.com/97326526/182004098-e03f31cd-8517-43c8-ab79-1683658443a2.jpeg)
 
-# Visual Six:** Price by Year Built
+# Visual Six: Price by Year Built
 
 
 > - The following visual shows a packed bubble chart, based on the *Year Remod Add* data set which contains information about the year when the home was remodeled - but if the house was never remodeled it will show the year when the home was first built. The bubble chart is labeled by the *Year Remod Add*, and *Sale Price*. The color of the bubbles is based on the *Sale Price* data set with a scale that starts with red (meaning the lowest price) to green (meaning the highest price). The bubbles are also porpotional to the *Sale Price*, - in other words, the greater the size of the bubble the greater the price of the property.
@@ -101,7 +101,7 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 ![Real Estate Correlations 6](https://user-images.githubusercontent.com/97326526/182004116-ebde2305-bf8e-4435-bd18-6013c7535d1d.jpeg)
 
-# Visual Seven:** Neighborhood Quality and Average Sale Price of Homes with Sale Conditon
+# Visual Seven: Neighborhood Quality and Average Sale Price of Homes with Sale Conditon
 
 
 > - The below dashboard contains our final visual -  on the left is a square chart that has our *Neighborhood* data points.  The colors of each square in the  chart represent the price by average *Overall Qual*, where dark red represents the lowest price and dark green the highest price. The square chart is labeled by the average *Overall Qual*, where 8.2 is the highest and 4.4 represents the lowest quality houses. In the chart it seems that the  neighborhoods with the highest quality houses seem to be NridgHt, which is Northridge Heights, and StoneBr, which is Stone Brook. The neighborhoods with the lowest quality houses are MeadowV, which is Meadow Village with an average of 4.4, and IDOTRR, which is the area around the Iowa DOT and Rail Road,  with a quality rating of 4.7.
