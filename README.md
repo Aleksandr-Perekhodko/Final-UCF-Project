@@ -103,7 +103,7 @@ R2 score of approximately  0.632 - in other words, the model is approximately 63
 
 The below visual shows the the predicted home price vs the actual: 
 
-<img width="622" alt="Screen Shot 2022-08-03 at 6 18 35 PM" src="https://user-images.githubusercontent.com/99847786/182722191-3a248585-250b-4bf0-9ae3-3123f0f3d33c.png">
+<img width="622" alt="Screen Shot 2022-08-03 at 6 18 35 PM" src="https://github.com/Aleksandr-Perekhodko/Final-UCF-Project/blob/main/Resources/Images/prediction_line_binned_DNN.png">
 
 Finally, the below visual shows the error percentage in the price prediction model in a box and whisker plot. 
 
