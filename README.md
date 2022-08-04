@@ -163,7 +163,14 @@ We'll use Tableau to create several visualizations to support our analysis for t
 
 # Summary of Results
 
-(To be completed once the analysis has been performed)
+
+In our analysis, we'll use the R2 score to evaluate the accuracy of our models. R2 is also known as the coefficient of determination, and serves as a better measure of accuracy for regression models than the mean squared error; the disadvantage of using the mean squared error is that it can be negativley impacted if the dependent variable in a model is scaled.  
+
+
+### Conclusion
+
+Based on the results of our analysis, we can conclude that a Random Forest Regressor model is ideal for predicting the average home price based on the factors in our data. We were able to predict the price of a home with 75.4% accuracy using this model, a considerable improvement over the R2 score of 0.632 or 63.2% from the Deep Neural Network. 
+
 
 ## List of Technologies Used
 
